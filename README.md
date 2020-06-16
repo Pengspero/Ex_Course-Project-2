@@ -3,11 +3,14 @@ For the exploratory data analysis
 This project is mainly used for the solution for the Course Project 2 at Course Exploratory Data Analysis on Coursera.com. It is an assignment with several primary data analysis questions inside. 
 
 First, the requirement criteria
+
 ##For each question
+
 #1.Does the plot appear to address the question being asked?
 #2.Is the submitted R code appropriate for construction of the submitted plot?
 
 Second, the waiting list of questions
+
 #1.Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 #2.Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (\color{red}{\verb|fips == "24510"|}fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
